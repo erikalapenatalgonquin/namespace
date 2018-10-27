@@ -1,4 +1,4 @@
-var erikalapenatalgonquin = {
+var ERIKALAPENATALGONQUIN = {
 
         init: function () {
 
