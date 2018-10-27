@@ -10,8 +10,8 @@ var ERIKALAPENATALGONQUIN = {
                 document.getElementById("boxes").appendChild(div);
 
                 div.addEventListener("click", function () {
-                    div.style.borderColor = "red”;
-                    div.style.backgroundColor = "pink”;
+                    div.style.borderColor = "blue”;
+                    div.style.backgroundColor = "aqua”;
                 });
 
                 div.addEventListener("mouseover", function () {
